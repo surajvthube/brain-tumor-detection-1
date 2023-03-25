@@ -1,8 +1,12 @@
-tensorflow==2.11.0
+tensorflow==2.12.0
 fastapi
 uvicorn
+gunicorn
 python-multipart
 pillow
+scipy
+scikit-learn
+pandas
 tensorflow-serving-api==2.5.0
 matplotlib
 numpy
